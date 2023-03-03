@@ -68,4 +68,6 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/MengYouXz/mengyouxz.github.io.git
+  branch: master
