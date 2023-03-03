@@ -1,10 +1,17 @@
-title: Hexo Template
-subtitle: ''
+title: For Freedom
+subtitle: 'we shall never surrender'
 description: ''
-keywords: null
-author: JiJi
-language: en
+keywords:
+author: '梦游'
+language: zh-CN
 timezone: ''
+# icarus页面设置
+widgets:
+  - type: profile
+    position: left
+  - type: recent_posts
+    position: right
+
 url: https://mengyouxz.github.io
 permalink: ':title/'
 permalink_defaults: null
