@@ -13,8 +13,8 @@ widgets:
     position: right
 
 url: https://mengyouxz.github.io
-permalink: ':title/'
-permalink_defaults: null
+permalink: /post/:title.html
+permalink_defaults: 
 pretty_urls:
   trailing_index: true
   trailing_html: true
@@ -38,16 +38,16 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-highlight:
-  enable: true
+highlight: 
+  enable: flase
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
-prismjs:
-  enable: false
-  preprocess: true
+prismjs: 
+  enable: true
+  preprocess: false
   line_number: true
   tab_replace: ''
 index_generator:
@@ -66,7 +66,7 @@ pagination_dir: page
 include: null
 exclude: null
 ignore: null
-theme: icarus
+theme: aurora
 deploy:
   type: git
   repository: https://github.com/MengYouXz/mengyouxz.github.io.git
