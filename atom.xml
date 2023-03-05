@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>For Freedom</title>
+  
+  <subtitle>we shall never surrender</subtitle>
+  <link href="https://mengyouxz.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://mengyouxz.github.io/"/>
+  <updated>2023-03-05T05:22:58.893Z</updated>
+  <id>https://mengyouxz.github.io/</id>
+  
+  <author>
+    <name>梦游</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这里是文章的标题</title>
+    <link href="https://mengyouxz.github.io/post/hello-template%20copy%202.html"/>
+    <id>https://mengyouxz.github.io/post/hello-template%20copy%202.html</id>
+    <published>2023-03-05T05:22:58.893Z</published>
+    <updated>2023-03-05T05:22:58.893Z</updated>
+    
+    
+    <summary type="html">这里填写摘要。也可以把摘要这一段删去，在文章中想要截断的地方加入&lt;!--more--&gt;，这样在首页就只显示开头到截断的内容，而不会显示全文</summary>
+    
+    
+    
+    <category term="python" scheme="https://mengyouxz.github.io/categories/python/"/>
+    
+    <category term="基础" scheme="https://mengyouxz.github.io/categories/python/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="python" scheme="https://mengyouxz.github.io/tags/python/"/>
+    
+    <category term="pycharm" scheme="https://mengyouxz.github.io/tags/pycharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这里是文章的标题</title>
+    <link href="https://mengyouxz.github.io/post/hello-template%20copy.html"/>
+    <id>https://mengyouxz.github.io/post/hello-template%20copy.html</id>
+    <published>2023-03-05T05:22:58.893Z</published>
+    <updated>2023-03-05T05:22:58.893Z</updated>
+    
+    
+    <summary type="html">这里填写摘要。也可以把摘要这一段删去，在文章中想要截断的地方加入&lt;!--more--&gt;，这样在首页就只显示开头到截断的内容，而不会显示全文</summary>
+    
+    
+    
+    <category term="python" scheme="https://mengyouxz.github.io/categories/python/"/>
+    
+    <category term="基础" scheme="https://mengyouxz.github.io/categories/python/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="python" scheme="https://mengyouxz.github.io/tags/python/"/>
+    
+    <category term="pycharm" scheme="https://mengyouxz.github.io/tags/pycharm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这里是文章的标题</title>
+    <link href="https://mengyouxz.github.io/post/hello-template.html"/>
+    <id>https://mengyouxz.github.io/post/hello-template.html</id>
+    <published>2023-03-05T05:22:58.893Z</published>
+    <updated>2023-03-05T05:22:58.893Z</updated>
+    
+    
+    <summary type="html">这里填写摘要。也可以把摘要这一段删去，在文章中想要截断的地方加入&lt;!--more--&gt;，这样在首页就只显示开头到截断的内容，而不会显示全文</summary>
+    
+    
+    
+    <category term="python" scheme="https://mengyouxz.github.io/categories/python/"/>
+    
+    <category term="基础" scheme="https://mengyouxz.github.io/categories/python/%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="python" scheme="https://mengyouxz.github.io/tags/python/"/>
+    
+    <category term="pycharm" scheme="https://mengyouxz.github.io/tags/pycharm/"/>
+    
+  </entry>
+  
+</feed>
